@@ -14,7 +14,7 @@
         "laravel/jetstream": "^2.3",
         "laravel/sanctum": "^2.6",
         "laravel/tinker": "^2.5",
-        "pusher/pusher-php-server": "^6.1",
+        "pusher/pusher-php-server": "^5.0",
         "tightenco/ziggy": "^1.0"
     },
     "require-dev": {
